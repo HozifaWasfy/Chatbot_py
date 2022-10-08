@@ -1,5 +1,5 @@
 # Chatbot_py
-COntributers:
+Contributers:
 Yilian Lian
 Hozifa Wasfy
 Osama Almadanat
