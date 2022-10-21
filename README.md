@@ -4,7 +4,7 @@ Yilian Lian
 Hozifa Wasfy
 Osama Almadanat
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fchatbot-icon%2F&psig=AOvVaw3j1mLTmgaeTAm9pzlZuwo8&ust=1666445458863000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLC72qC38foCFQAAAAAdAAAAABAJ)
+
 
 Idea: Chatbot by python and web
 
