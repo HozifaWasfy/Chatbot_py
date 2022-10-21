@@ -1,6 +1,6 @@
 # Chatbot_py
 Contributers:
-Yilian Lian
+Yilin Lian
 Hozifa Wasfy
 Osama Almadanat
 
